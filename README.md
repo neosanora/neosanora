@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm neonora 👋
 
-<!--
-**neosanora/neosanora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Little bit programmer, learning and exploring new tech
+- 🎨 Interested in Linux rice, Hyprland, AI, and VTuber systems
+- 🌱 Currently experimenting with real-time AI interaction and system integration
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, Bash, a little C/C++
+- **Tools:** Git, Hyprland, Waybar, OBS, PipeWire
+- **AI / ML:** Whisper, Silero, AutoGen, TurnGPT
+- **Other:** Arch Linux / CachyOS, KVM, Minecraft modding (Bedrock packs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![neonora's GitHub stats](https://github-readme-stats.vercel.app/api?username=neonora&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect with Me
+- ✨ GitHub: [@neonora](https://github.com/neonora)
